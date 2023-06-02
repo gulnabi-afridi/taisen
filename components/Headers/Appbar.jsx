@@ -15,8 +15,8 @@ import Logo from "../../public/assets/SVG Icons/LOGO.svg";
 import Discord from "../../public/assets/SVG Icons/discord.svg";
 import Instagam from "../../public/assets/SVG Icons/instagam.svg";
 import Twitter from "../../public/assets/SVG Icons/twitter.svg";
-// import NavbarBtn from "../Common/NavbarBtn";
-// import MobileNavBarButton from "../Common/MobileNavBarButton";
+import NavbarBtn from "../Common/NavbarBtn";
+import MobileNavBarButton from "../Common/MobileNavBarButton";
 // import {socials} from "../../data/socials";
 
 function Appbar() {
