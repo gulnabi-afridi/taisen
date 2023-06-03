@@ -20,6 +20,7 @@
     "react-dom": "18.2.0",
     "react-h5-audio-player": "^3.8.6",
     "react-modern-drawer": "^1.2.0",
-    "react-reveal": "^1.2.2"
+    "react-reveal": "^1.2.2",
+    "react-use": "^17.4.0"
   }
 }

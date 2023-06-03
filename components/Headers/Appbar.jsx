@@ -17,7 +17,7 @@ import Instagam from "../../public/assets/SVG Icons/instagam.svg";
 import Twitter from "../../public/assets/SVG Icons/twitter.svg";
 import NavbarBtn from "../Common/NavbarBtn";
 import MobileNavBarButton from "../Common/MobileNavBarButton";
-// import {socials} from "../../data/socials";
+import {socials} from "../../data/socials";
 
 function Appbar() {
   const router = useRouter();
