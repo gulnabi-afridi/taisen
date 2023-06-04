@@ -1,5 +1,5 @@
 import Hero from "../components/Home/Hero";
-// import PreparingArmySection from "../components/Home/PreparingArmySection";
+import PreparingArmySection from "../components/Home/PreparingArmySection";
 // import PhantasyWorldSection from "../components/Home/PhantasyWorldSection";
 // import TeamSection from "../components/Home/TeamSection";
 // import BillBoardSection from "../components/Home/BillBoardSection";
@@ -31,7 +31,7 @@ function Home() {
         }}
         className={"section section-2"}
       >
-        {/* <PreparingArmySection /> */}
+        <PreparingArmySection />
       </Box>
       <Box
         sx={{
