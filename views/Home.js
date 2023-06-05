@@ -2,7 +2,7 @@ import Hero from "../components/Home/Hero";
 import PreparingArmySection from "../components/Home/PreparingArmySection";
 import PhantasyWorldSection from "../components/Home/PhantasyWorldSection";
 import TeamSection from "../components/Home/TeamSection";
-// import BillBoardSection from "../components/Home/BillBoardSection";
+import BillBoardSection from "../components/Home/BillBoardSection";
 import Box from "@mui/material/Box";
 
 function Home() {
@@ -47,7 +47,7 @@ function Home() {
         }}
         className={"section section-4"}
       >
-        {/* <BillBoardSection /> */}
+        <BillBoardSection />
       </Box>
       <Box
         sx={{
