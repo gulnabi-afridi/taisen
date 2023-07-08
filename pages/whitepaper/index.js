@@ -1,5 +1,5 @@
 import Whitepaper from "../../views/Whitepaper";
-import WhitePaper2View from "../../views/WhitePaper2View";
+// import WhitePaper2View from "../../views/WhitePaper2View";
 
 function index() {
   return (
